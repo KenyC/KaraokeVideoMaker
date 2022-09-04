@@ -1,7 +1,7 @@
 Karaoke Video Maker
 ==========================
 
-I couldn't find free tools to create videos with scrolling lyrics and this is how this tool came into existence. This is a command line tool to do so. Provide a subtitle file (.srt) which contain text aligned to audio and the software will output something like this:
+I couldn't find free tools to create videos with scrolling lyrics and this is how this tool came into existence. Provide a subtitle file (.srt) which contain text aligned to audio and the script will output something like this:
 
 ![Demo image](https://github.com/KenyC/KaraokeVideoMaker/blob/main/demo.gif?raw=true)
 
