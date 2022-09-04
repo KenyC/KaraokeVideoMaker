@@ -1,0 +1,6 @@
+numpy
+pycairo
+moviepy >= 1.0
+# matplotlib
+# jupyter
+# PyQt5
